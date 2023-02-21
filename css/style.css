@@ -1,0 +1,23 @@
+body {background-color: rgb(227, 223, 253);}
+.text {
+font-size: 14px;
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom:40px;
+font-family: sans-serif;
+
+
+}
+
+h1 {
+font-size: 30px;
+font-family: sans-serif;
+color:navy;
+}
+
+
+h2 {font-size: 30;
+text-align: center;}
+
+p {color: #000;}
+
